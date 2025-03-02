@@ -23,8 +23,8 @@ Byte (u8 only)	|b'A'
 
 fn main() {
     // Integers:
-    let _i: u32 = 12 // u32 the _ is so that warnings don't occur
-    let _j: i32 = -12 // i32 
+    let _i: u32 = 12; // u32 the _ is so that warnings don't occur
+    let _j: i32 = -12; // i32 
 
     // Floating points:
     let _x = 2.0; // f64 
@@ -33,17 +33,17 @@ fn main() {
     // Numeric Operations:
 
     // addition
-    let sum = 5 + 10;
+    let _sum = 5 + 10;
 
     // subtraction
-    let difference = 95.5 - 4.3;
+    let _difference = 95.5 - 4.3;
 
     // multiplication
-    let product = 4 * 30;
+    let _product = 4 * 30;
 
     // division
-    let quotient = 56.7 / 32.2;
-    let truncated = -5 / 3; // Results in -1
+    let _quotient = 56.7 / 32.2;
+    let _truncated = -5 / 3; // Results in -1
     
     // Bool:
     let _t = true;

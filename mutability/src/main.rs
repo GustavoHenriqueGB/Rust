@@ -1,5 +1,5 @@
 // Definition of an costant:
-const THREE_HOURS_IN_SECONDS: u32 = 60 * 60 * 3;
+const _THREE_HOURS_IN_SECONDS: u32 = 60 * 60 * 3;
 
 fn main() {
 /*  Definition of an immutable variable
